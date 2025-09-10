@@ -69,8 +69,8 @@ Right now I’m building an **AI Governance Dashboard** to track LLM usage, late
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="28"/><br/>Elasticsearch</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="28"/><br/>MongoDB</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="28"/><br/>Cosmos DB</td>
-  </tr>
-</th>
+  </th>
+</table>
 
 <!-- CLOUD / DEVOPS -->
 ### ☁️ Cloud & DevOps
