@@ -18,76 +18,78 @@ Right now I’m building an **AI Governance Dashboard** to track LLM usage, late
 
 <table>
   <tr>
-    <!-- Row 1: Languages | Frameworks -->
+    <!-- Left: Languages -->
     <td width="50%" valign="top">
 
 ### 🔤 Languages
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="30"/><br/><sub>C#</sub>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/><br/><sub>Python</sub>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/><br/><sub>JavaScript</sub>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30"/><br/><sub>TypeScript</sub>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30"/><br/><sub>Java</sub>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="30"/> C#  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> Python  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/> JavaScript  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30"/> TypeScript  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30"/> Java  
 </p>
 
     </td>
+    <!-- Right: Frameworks -->
     <td width="50%" valign="top">
 
 ### 📚 Frameworks & Libraries
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"/><br/><sub>React</sub>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="30"/><br/><sub>Vue.js</sub>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30"/><br/><sub>Node.js</sub>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="30"/><br/><sub>ASP.NET&nbsp;Core</sub>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="30"/><br/><sub>Express</sub>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="30"/><br/><sub>Next.js</sub>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="30"/><br/><sub>Tailwind</sub>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="30"/><br/><sub>FastAPI</sub>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"/> React  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="30"/> Vue.js  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30"/> Node.js  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="30"/> ASP.NET Core  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="30"/> Express  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="30"/> Next.js  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="30"/> TailwindCSS  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="30"/> FastAPI  
 </p>
 
     </td>
   </tr>
 
   <tr>
-    <!-- Row 2: ML/Data | Databases -->
+    <!-- Left: ML/Data -->
     <td width="50%" valign="top">
 
 ### 🤖 ML / Data
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="30"/><br/><sub>TensorFlow</sub>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="30"/><br/><sub>PyTorch</sub>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="30"/><br/><sub>pandas</sub>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="30"/><br/><sub>scikit-learn</sub>&nbsp;&nbsp;
-  <sub>Supervised&nbsp;Learning</sub>&nbsp;&nbsp;•&nbsp;&nbsp;<sub>Deep&nbsp;Learning</sub>&nbsp;&nbsp;•&nbsp;&nbsp;<sub>Neural&nbsp;Networks</sub>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="30"/> TensorFlow  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="30"/> PyTorch  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="30"/> pandas  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="30"/> scikit-learn  
+  Supervised Learning • Deep Learning • Neural Networks  
 </p>
 
     </td>
+    <!-- Right: Databases -->
     <td width="50%" valign="top">
 
 ### 🗄️ Databases
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30"/><br/><sub>MS SQL Server</sub>&nbsp;&nbsp;
-  <sub>SQL</sub>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30"/><br/><sub>PostgreSQL</sub>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="30"/><br/><sub>Elasticsearch</sub>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30"/><br/><sub>MongoDB</sub>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="30"/><br/><sub>Cosmos DB</sub>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30"/> MS SQL Server  
+  SQL  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30"/> PostgreSQL  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="30"/> Elasticsearch  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30"/> MongoDB  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="30"/> Cosmos DB  
 </p>
 
     </td>
   </tr>
 
   <tr>
-    <!-- Row 3: Cloud & DevOps (full width) -->
+    <!-- Full-width: Cloud & DevOps -->
     <td colspan="2" valign="top">
 
 ### ☁️ Cloud & DevOps
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="30"/><br/><sub>Azure</sub>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" width="30"/><br/><sub>Azure&nbsp;DevOps</sub>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30"/><br/><sub>Docker</sub>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="30"/><br/><sub>Kubernetes</sub>&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>CI/CD Pipelines</sub>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="30"/> Azure &nbsp;&nbsp; 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" width="30"/> Azure DevOps &nbsp;&nbsp; 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30"/> Docker &nbsp;&nbsp; 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="30"/> Kubernetes &nbsp;&nbsp; 
+  CI/CD Pipelines  
 </p>
 
     </td>
