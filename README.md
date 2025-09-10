@@ -62,14 +62,14 @@ Right now I’m building an **AI Governance Dashboard** to track LLM usage, late
 <!-- DATABASES -->
 ### 🗄️ Databases
 <table>
-  <th>
+  <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="28"/><br/>MS SQL Server</td>
     <td align="center">SQL</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="28"/><br/>PostgreSQL</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="28"/><br/>Elasticsearch</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="28"/><br/>MongoDB</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="28"/><br/>Cosmos DB</td>
-  </th>
+  </tr>
 </table>
 
 <!-- CLOUD / DEVOPS -->
