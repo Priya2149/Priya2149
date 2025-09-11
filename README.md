@@ -95,10 +95,6 @@ AI Governance Dashboard (Next.js + FastAPI); LLM usage, latency, cost & complian
   <img src="https://streak-stats.demolab.com?user=Priya2149&theme=tokyonight&date_format=j%20M%5B%20Y%5D&border_radius=12" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priya2149&layout=compact&langs_count=8&theme=tokyonight&border_radius=12" height="160"/>
-</p>
-
 ### 🗺️ Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priya2149&radius=12&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph"/>
 
