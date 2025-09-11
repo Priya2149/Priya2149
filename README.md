@@ -85,14 +85,27 @@ Right now I’m building an **AI Governance Dashboard** to track LLM usage, late
 Built to showcase **AI observability, governance, and compliance readiness** using Next.js + FastAPI. Features cost/latency tracking, usage dashboards, and hallucination/security flagging.
 
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priya2149&show_icons=true&hide=issues&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&border_radius=12" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=Priya2149&theme=tokyonight&date_format=j%20M%5B%20Y%5D&border_radius=12" height="160"/>
-</p>
+## 📊 GitHub Stats
 
-###  Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priya2149&radius=12&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph"/>
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Priya2149&show_icons=true&hide=issues&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&border_radius=12"
+        height="160"
+        alt="GitHub stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://streak-stats.demolab.com?user=Priya2149&theme=tokyonight&date_format=j%20M%5B%20Y%5D&border_radius=12"
+        height="160"
+        alt="GitHub streak"
+      />
+    </td>
+  </tr>
+</table>
+
 
 
 ## 🤝 Connect With Me
