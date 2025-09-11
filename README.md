@@ -79,10 +79,9 @@ Right now I’m building an **AI Governance Dashboard** to track LLM usage, late
   </tr>
 </table>
 
-
-## 🚀 Recent Projects
-- [**Sentinal AI**](https://github.com/Priya2149/Sentinal-AI)
-AI Governance Dashboard (Next.js + FastAPI); LLM usage, latency, cost & compliance reports  
+### [Sentinal AI](https://github.com/Priya2149/Sentinal-AI)  
+**Modern full-stack monitoring tool for Large Language Models (LLMs).**  
+Built to showcase **AI observability, governance, and compliance readiness** using Next.js + FastAPI. Features cost/latency tracking, usage dashboards, and hallucination/security flagging.
 
 ## 📊 GitHub Stats
 <p align="center">
