@@ -1,8 +1,3 @@
-<!-- Banner (keep your same matrix/green vibe) -->
-<p align="center">
-  <img src="assets/banner.png" alt="Hello, I'm Priya" width="100%"/>
-</p>
-
 # 👋 Hi, I'm Priya  
 
 
