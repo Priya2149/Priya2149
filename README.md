@@ -114,12 +114,6 @@ Built to showcase **AI observability, governance, and compliance readiness** usi
   <a href="mailto:priyap3427@gmail.com" title="Gmail">
     <img src="https://skillicons.dev/icons?i=gmail" height="48" />
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/" title="Twitter / X">
-    <img src="https://skillicons.dev/icons?i=twitter" height="48" />
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/" title="Instagram">
-    <img src="https://skillicons.dev/icons?i=instagram" height="48" />
-  </a>&nbsp;&nbsp;
   <a href="https://github.com/Priya2149" title="GitHub">
     <img src="https://skillicons.dev/icons?i=github" height="48" />
   </a>&nbsp;&nbsp;
