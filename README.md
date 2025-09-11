@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Priya  
 
 
-## 👋 About Me
+## About Me
 Hey there! I’m a **Software Engineer** with **2.5+ years** building **cloud-native, scalable apps** using **Azure, .NET Core, Node.js, and Docker**.  
 I’m currently pursuing my **M.S. in Computer Science @ Pace University** (AI, NLP, Computer Vision, DevOps).
 
@@ -10,10 +10,10 @@ I’m not just about code — I’m passionate about **entrepreneurship and prod
 Right now I’m building an **AI Governance Dashboard** to track LLM usage, latency, cost, and security risks — blending **AI safety + cloud engineering** for enterprise needs. I thrive in Agile teams and enjoy turning complex problems into **practical, maintainable solutions**.
 
 
-## 🛠️ Skills
+## Skills
 
 <!-- LANGUAGES -->
-### 🔤 Languages
+### Languages
 <table>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="28"/><br/>C#</td>
@@ -25,7 +25,7 @@ Right now I’m building an **AI Governance Dashboard** to track LLM usage, late
 </table>
 
 <!-- FRAMEWORKS -->
-### 📚 Frameworks & Libraries
+### Frameworks & Libraries
 <table>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="28"/><br/>React</td>
@@ -41,7 +41,7 @@ Right now I’m building an **AI Governance Dashboard** to track LLM usage, late
 
 <!-- ML / DATA -->
 
-### 🤖 ML / Data
+### ML / Data
 <table>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="28"/><br/>TensorFlow</td>
@@ -55,7 +55,7 @@ Right now I’m building an **AI Governance Dashboard** to track LLM usage, late
 </table>
 
 <!-- DATABASES -->
-### 🗄️ Databases
+###  Databases
 <table>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="28"/><br/>MS SQL Server</td>
@@ -68,7 +68,7 @@ Right now I’m building an **AI Governance Dashboard** to track LLM usage, late
 </table>
 
 <!-- CLOUD / DEVOPS -->
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 <table>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="28"/><br/>Azure</td>
@@ -80,20 +80,20 @@ Right now I’m building an **AI Governance Dashboard** to track LLM usage, late
 </table>
 
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [Sentinal AI](https://github.com/Priya2149/Sentinal-AI)  
 **Modern full-stack monitoring tool for Large Language Models (LLMs).**  
 Built to showcase **AI observability, governance, and compliance readiness** using Next.js + FastAPI. Features cost/latency tracking, usage dashboards, and hallucination/security flagging.
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Priya2149&show_icons=true&hide=issues&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&border_radius=12" height="160"/>
   <img src="https://streak-stats.demolab.com?user=Priya2149&theme=tokyonight&date_format=j%20M%5B%20Y%5D&border_radius=12" height="160"/>
 </p>
 
-### 🗺️ Contribution Graph
+###  Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priya2149&radius=12&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph"/>
 
 
