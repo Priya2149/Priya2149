@@ -5,7 +5,7 @@ I’m currently pursuing my **M.S. in Computer Science @ Pace University** (AI, 
 
 I’m not just about code — I’m passionate about **entrepreneurship and product development**. I love the space where **technical innovation, user-focused design, and business strategy** meet to create products people *actually love*.
 
-Right now I’m building an **AI Governance Dashboard** to track LLM usage, latency, cost, and security risks — blending **AI safety + cloud engineering** for enterprise needs. I thrive in Agile teams and enjoy turning complex problems into **practical, maintainable solutions**.
+Right now I’m building an **AI Governance Dashboard** to track LLM usage, latency, cost, and security risks — blending **AI safety + cloud engineering** tool. I thrive in Agile teams and enjoy turning complex problems into **practical, maintainable solutions**.
 
 
 ## Skills
