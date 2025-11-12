@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Priya Prajapati
+# 👋 Hi, I'm Priya
 
 I’m a **Software Engineer** with **2.5+ years of experience** working on and building **full-stack, backend, DevOps, and cloud-based applications** using **Azure, .NET Core, Node.js, React, Docker, and CI/CD pipelines**.  
 
