@@ -1,12 +1,18 @@
 # 👋 Hi, I'm Priya  
 
-I’m a **Software Engineer** with **2.5+ years** building **cloud-native, scalable apps** using **Azure, .NET Core, Node.js, and Docker**.  
-I’m currently pursuing my **M.S. in Computer Science @ Pace University** (AI, NLP, Computer Vision, DevOps).
+## 👩‍💻 About Me
 
-I’m not just about code — I’m passionate about **entrepreneurship and product development**. I love the space where **technical innovation, user-focused design, and business strategy** meet to create products people *actually love*.
+I’m a **Software Engineer** with **2.5+ years of experience** building **cloud-native and scalable applications** using **Azure, .NET Core, Node.js, and Docker**.  
 
-Right now I’m building an **AI Governance Dashboard** to track LLM usage, latency, cost, and security risks — blending **AI safety + cloud engineering** tool. I thrive in Agile teams and enjoy turning complex problems into **practical, maintainable solutions** see the demo here https://sentinal-ai-sigma.vercel.app/.
+I’m currently pursuing my **M.S. in Computer Science at Pace University (May 2026)**, where I’m exploring **AI, NLP, Computer Vision, and DevOps** to stay current in the AI-driven world.  
 
+I enjoy building practical and reliable systems that solve real problems. My work often involves **.NET Core, Azure, React, Node.js, CI/CD, Python, and SQL**, with a focus on backend and cloud development.  
+
+I’m also a **startup and product innovation enthusiast** who enjoys the intersection of **technology, design, and business strategy** — turning ideas into products people actually love.  
+
+🚀 **Current Project**  
+I’m developing an **AI Governance Dashboard**, a tool for tracking LLM usage, latency, cost, and security risks.  
+👉 [Live Demo](https://sentinal-ai-sigma.vercel.app/) *(integrating live data and expanding visualization features)*  
 
 ## Skills
 
