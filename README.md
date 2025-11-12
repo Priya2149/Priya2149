@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Priya  
 
-## 👩‍💻 About Me
-
 I’m a **Software Engineer** with **2.5+ years of experience** building **cloud-native and scalable applications** using **Azure, .NET Core, Node.js, and Docker**.  
 
 I’m currently pursuing my **M.S. in Computer Science at Pace University (May 2026)**, where I’m exploring **AI, NLP, Computer Vision, and DevOps** to stay current in the AI-driven world.  
