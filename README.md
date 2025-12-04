@@ -8,7 +8,7 @@ I enjoy learning new tools, improving what I build, and finding practical ways t
 
 🚀 **Current Project**  
 **AI Governance Dashboard** – A cloud-based tool for tracking LLM usage, latency, cost, and security risks.  
-👉 [Live Demo](https://sentinal-ai-sigma.vercel.app/) *(integrating live data and expanding visualization features)*  
+👉 [Live Demo](https://sentinelai-app.vercel.app/) *(integrating live data and expanding visualization features)*  
 
 ## Skills
 
