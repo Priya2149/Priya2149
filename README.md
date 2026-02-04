@@ -93,25 +93,15 @@ Built to showcase **AI observability, governance, and compliance readiness** usi
   <tr>
     <td>
   <img
-  src="https://github-readme-stats.vercel.app/api
-  ?username=Priya2149
-  &show_icons=true
-  &include_all_commits=true
-  &count_private=true
-  &rank_icon=github
-  &theme=tokyonight
-  &hide_border=true
-  &cache_seconds=86400"
-/>
+    src="https://github-readme-stats.vercel.app/api?username=Priya2149&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true"
+    height="160"
+  />
     </td>
     <td>
-<img
-  src="https://streak-stats.demolab.com
-  ?user=Priya2149
-  &theme=tokyonight
-  &hide_border=true
-  &cache_seconds=86400"
-/>
+  <img
+    src="https://streak-stats.demolab.com?user=Priya2149&theme=tokyonight&hide_border=true"
+    height="160"
+  />
     </td>
   </tr>
 </table>
