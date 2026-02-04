@@ -6,9 +6,9 @@ I’m currently pursuing my **M.S. in Computer Science at Pace University (May 2
 
 I enjoy learning new tools, improving what I build, and finding practical ways to solve real-world problems. I’m also a **startup and product innovation enthusiast** who enjoys working at the intersection of technology, design, and business.  
 
-🚀 **Current Project**  
+🚀 **Featured Project**  
 **AI Governance Dashboard** – A cloud-based tool for tracking LLM usage, latency, cost, and security risks.  
-👉 [Live Demo](https://sentinelai-app.vercel.app/) *(integrating live data and expanding visualization features)*  
+👉 [Live Demo](https://sentinelai-app.vercel.app/) 
 
 ## Skills
 
