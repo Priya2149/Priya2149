@@ -89,13 +89,50 @@ I enjoy learning new tools, improving what I build, and finding practical ways t
 ### Tools
 <table>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="28"/><br/>Visual Studio</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="28"/><br/>VS Code</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="28"/><br/>GitHub</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="28"/><br/>Figma</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" width="28"/><br/>Adobe XD</td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="28"/><br/>
+      Visual Studio
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="28"/><br/>
+      VS Code
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="28"/><br/>
+      GitHub
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="28"/><br/>
+      Postman
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="28"/><br/>
+      Figma
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" width="28"/><br/>
+      Adobe XD
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sendgrid/sendgrid-original.svg" width="28"/><br/>
+      SendGrid
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sparkpost/sparkpost-original.svg" width="28"/><br/>
+      SparkPost
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" width="28"/><br/>
+      Microsoft 365
+    </td>
+    <td align="center">
+      <!-- spacer for symmetry -->
+    </td>
   </tr>
 </table>
+
 
 ## Featured Projects
 
