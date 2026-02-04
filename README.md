@@ -111,8 +111,8 @@ This demonstrates:
 ## 🤝 Connect With Me
 
 <p align="center">
-<a href="mailto:priyaprajapati001@outlook.com" title="Outlook">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" height="48"/>
+  <a href="mailto:priyaprajapati001@outlook.com" title="Outlook">
+    <img src="https://github.com/simple-icons/simple-icons/raw/develop/icons/microsoftoutlook.svg" height="48" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/Priya2149" title="GitHub">
     <img src="https://skillicons.dev/icons?i=github" height="48" />
