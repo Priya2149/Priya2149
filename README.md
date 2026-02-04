@@ -92,18 +92,26 @@ Built to showcase **AI observability, governance, and compliance readiness** usi
 <table>
   <tr>
     <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=Priya2149&show_icons=true&hide=issues&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&border_radius=12"
-        height="160"
-        alt="GitHub stats"
-      />
+  <img
+  src="https://github-readme-stats.vercel.app/api
+  ?username=Priya2149
+  &show_icons=true
+  &include_all_commits=true
+  &count_private=true
+  &rank_icon=github
+  &theme=tokyonight
+  &hide_border=true
+  &cache_seconds=86400"
+/>
     </td>
     <td>
-      <img
-        src="https://streak-stats.demolab.com?user=Priya2149&theme=tokyonight&date_format=j%20M%5B%20Y%5D&border_radius=12"
-        height="160"
-        alt="GitHub streak"
-      />
+<img
+  src="https://streak-stats.demolab.com
+  ?user=Priya2149
+  &theme=tokyonight
+  &hide_border=true
+  &cache_seconds=86400"
+/>
     </td>
   </tr>
 </table>
@@ -113,8 +121,8 @@ Built to showcase **AI observability, governance, and compliance readiness** usi
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:priyap3427@gmail.com" title="Gmail">
-    <img src="https://skillicons.dev/icons?i=gmail" height="48" />
+<a href="mailto:priyaprajapati001@outlook.com" title="Outlook">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" height="48"/>
   </a>&nbsp;&nbsp;
   <a href="https://github.com/Priya2149" title="GitHub">
     <img src="https://skillicons.dev/icons?i=github" height="48" />
