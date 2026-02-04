@@ -82,9 +82,17 @@ I enjoy learning new tools, improving what I build, and finding practical ways t
 
 ## Featured Projects
 
-### [Sentinal AI](https://github.com/Priya2149/Sentinal-AI)  
+### [Sentinal AI](https://github.com/Priya2149/SentinalAI)  
 **Modern full-stack monitoring tool for Large Language Models (LLMs).**  
 Built to showcase **AI observability, governance, and compliance readiness** using Next.js + FastAPI. Features cost/latency tracking, usage dashboards, and hallucination/security flagging.
+
+### [Bank Marketing Python Pipeline](https://github.com/Priya2149/bank-marketing-python-pipeline)  
+**End-to-end Python data pipeline + classification + Power BI dashboard** for analyzing the Bank Marketing dataset.  
+This demonstrates:
+- Data preprocessing and exploratory data analysis  
+- Training and evaluation of multiple classification models  
+- Rich evaluation outputs (ROC, confusion matrices, feature importance)  
+- Explainable AI via SHAP and business dashboard built in Power BI
 
 
 ## 📊 GitHub Stats
@@ -92,21 +100,13 @@ Built to showcase **AI observability, governance, and compliance readiness** usi
 <table>
   <tr>
     <td>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Priya2149&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true"
-    height="160"
-  />
+<img src="https://github-readme-stats.vercel.app/api?username=Priya2149&show_icons=true&hide=issues&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&border_radius=12" height="160" alt="GitHub stats" />
     </td>
     <td>
-  <img
-    src="https://streak-stats.demolab.com?user=Priya2149&theme=tokyonight&hide_border=true"
-    height="160"
-  />
+<img src="https://streak-stats.demolab.com?user=Priya2149&theme=tokyonight&date_format=j%20M%5B%20Y%5D&border_radius=12" height="160" alt="GitHub streak" />
     </td>
   </tr>
 </table>
-
-
 
 ## 🤝 Connect With Me
 
