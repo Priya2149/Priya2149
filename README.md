@@ -112,7 +112,7 @@ This demonstrates:
 
 <p align="center">
   <a href="mailto:priyaprajapati001@outlook.com" title="Outlook">
-    <img src="skillicons.dev/icons?i=outlook" height="48" />
+   <img src="https://github.com/simple-icons/simple-icons/raw/develop/icons/maildotru.svg" height="48" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/Priya2149" title="GitHub">
     <img src="https://skillicons.dev/icons?i=github" height="48" />
