@@ -1,14 +1,46 @@
 # 👋 Hi, I'm Priya
 
-I’m a **Software Engineer** with **2.5+ years of experience** working on and building **full-stack, backend, DevOps, and cloud-based applications** using **Azure, .NET Core, Node.js, React, Docker, and CI/CD pipelines**.  
+## About Me
 
-I’m currently pursuing my **M.S. in Computer Science at Pace University (May 2026)**, where I’m exploring **AI, NLP, and Computer Vision** to stay current in the evolving tech landscape.  
+I’m a **Software Engineer** with **2.5+ years of experience** building full-stack, backend, cloud, and DevOps-focused applications in startup and Agile environments.
 
-I enjoy learning new tools, improving what I build, and finding practical ways to solve real-world problems. I’m also a **startup and product innovation enthusiast** who enjoys working at the intersection of technology, design, and business.  
+I work with **.NET, React, TypeScript, Node.js, Azure, Docker, PostgreSQL, Prisma, and CI/CD pipelines**, and I recently completed my **M.S. in Computer Science at Pace University**.
 
-🚀 **Featured Project**  
-**AI Governance Dashboard** – A tool for tracking LLM usage, latency, cost, and security risks.  
-👉 [Live Demo](https://sentinelai-app.vercel.app/) 
+I enjoy learning new technologies and applying them through practical, production-style projects. My current focus is building projects around **AI observability, full-stack dashboards, ETL pipelines, RAG workflows, backend APIs, testing, and cloud deployment**.
+
+🚀 **Featured build:** 👉 [SentinelAI](https://sentinelai-app.vercel.app/) — a full-stack AI governance dashboard with LLM monitoring, safety signals, reporting, testing, and Vercel deployment.
+
+
+## Featured Projects
+
+### [SentinelAI](https://github.com/Priya2149/SentinelAI)
+
+Full-stack AI governance and observability dashboard for monitoring LLM usage, latency, cost, safety signals, and compliance-style reporting.
+
+**Tech:** Next.js, React, TypeScript, Prisma, PostgreSQL/Supabase, Recharts, Zod, Vitest, React Testing Library, MSW, Cypress, Vercel
+
+Highlights:
+
+* Built a production-style dashboard with route-level loading states, error boundaries, reusable components, server services, and API routes.
+* Added validation, API contract tests, component tests, hook tests, and browser-level Cypress tests across Chrome, Edge, and Firefox.
+* Fixed SSR hydration issues and deployment/runtime problems while improving production readiness.
+
+👉 **Live Demo:** https://sentinelai-app.vercel.app/
+
+---
+
+### [ETL-RAG Observability Platform](https://github.com/Priya2149/etl_rag_observability)
+
+Backend-focused microservices project for ETL pipelines and RAG-based document workflows with run tracking and observability.
+
+**Tech:** FastAPI, Python, Pandas, PostgreSQL, ChromaDB, LangChain, sentence-transformers, Docker, Docker Compose
+
+Highlights:
+
+* Built separate ETL and RAG services for structured CSV processing and document-based retrieval workflows.
+* Added schema profiling, data quality checks, anomaly detection, background processing, and pipeline run tracking.
+* Implemented document chunking, embeddings, semantic search, retrieved context tracking, and metadata storage.
+
 
 ## Skills
 
@@ -96,37 +128,6 @@ I enjoy learning new tools, improving what I build, and finding practical ways t
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" width="28"/><br/>Adobe XD</td>
   </tr>
 </table>
-
-
-## Featured Projects
-
-### [SentinelAI](https://github.com/Priya2149/SentinelAI)
-
-Full-stack AI governance and observability dashboard for monitoring LLM usage, latency, cost, safety signals, and compliance-style reporting.
-
-Built with Next.js, React, TypeScript, Prisma, PostgreSQL/Supabase, Recharts, Zod, Vitest, React Testing Library, MSW, Cypress, and Vercel.
-
-Highlights:
-
-* Designed a production-style dashboard architecture with route-level loading states, error boundaries, reusable components, server-side services, and API routes.
-* Added validation, API contract tests, component tests, hook tests, and browser-level Cypress tests across Chrome, Edge, and Firefox.
-* Fixed real-world SSR hydration issues and deployment/runtime problems while improving production readiness.
-
-**Live Demo:** https://sentinelai-app.vercel.app/
-
----
-
-### [ETL-RAG Observability Platform](https://github.com/Priya2149/etl_rag_observability)
-
-Backend-focused microservices platform for ETL pipelines and RAG-based document workflows with built-in run tracking and observability.
-
-Built with FastAPI, Python, Pandas, PostgreSQL, ChromaDB, LangChain, sentence-transformers, Docker, and Docker Compose.
-
-Highlights:
-
-* Built separate ETL and RAG services to process structured CSV data and unstructured document workflows through REST APIs.
-* Added schema profiling, anomaly detection, data quality metrics, background processing, and pipeline run status tracking.
-* Implemented document chunking, embeddings, semantic search, retrieved context tracking, and metadata storage for observability.
 
 ## 📊 GitHub Stats
 
