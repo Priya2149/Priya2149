@@ -100,18 +100,33 @@ I enjoy learning new tools, improving what I build, and finding practical ways t
 
 ## Featured Projects
 
-### [Sentinal AI](https://github.com/Priya2149/SentinalAI)  
-**Modern full-stack monitoring tool for Large Language Models (LLMs).**  
-Built to showcase **AI observability, governance, and compliance readiness** using Next.js + FastAPI. Features cost/latency tracking, usage dashboards, and hallucination/security flagging.
+### [SentinelAI](https://github.com/Priya2149/SentinelAI)
 
-### [Bank Marketing Python Pipeline](https://github.com/Priya2149/bank-marketing-python-pipeline)  
-**End-to-end Python data pipeline + classification + Power BI dashboard** for analyzing the Bank Marketing dataset.  
-This demonstrates:
-- Data preprocessing and exploratory data analysis  
-- Training and evaluation of multiple classification models  
-- Rich evaluation outputs (ROC, confusion matrices, feature importance)  
-- Explainable AI via SHAP and business dashboard built in Power BI
+Full-stack AI governance and observability dashboard for monitoring LLM usage, latency, cost, safety signals, and compliance-style reporting.
 
+Built with Next.js, React, TypeScript, Prisma, PostgreSQL/Supabase, Recharts, Zod, Vitest, React Testing Library, MSW, Cypress, and Vercel.
+
+Highlights:
+
+* Designed a production-style dashboard architecture with route-level loading states, error boundaries, reusable components, server-side services, and API routes.
+* Added validation, API contract tests, component tests, hook tests, and browser-level Cypress tests across Chrome, Edge, and Firefox.
+* Fixed real-world SSR hydration issues and deployment/runtime problems while improving production readiness.
+
+**Live Demo:** https://sentinelai-app.vercel.app/
+
+---
+
+### [ETL-RAG Observability Platform](https://github.com/Priya2149/etl_rag_observability)
+
+Backend-focused microservices platform for ETL pipelines and RAG-based document workflows with built-in run tracking and observability.
+
+Built with FastAPI, Python, Pandas, PostgreSQL, ChromaDB, LangChain, sentence-transformers, Docker, and Docker Compose.
+
+Highlights:
+
+* Built separate ETL and RAG services to process structured CSV data and unstructured document workflows through REST APIs.
+* Added schema profiling, anomaly detection, data quality metrics, background processing, and pipeline run status tracking.
+* Implemented document chunking, embeddings, semantic search, retrieved context tracking, and metadata storage for observability.
 
 ## 📊 GitHub Stats
 
