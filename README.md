@@ -8,7 +8,7 @@ I work with **.NET, React, TypeScript, Node.js, Azure, Docker, PostgreSQL, Prism
 
 I enjoy learning new technologies and applying them through practical, production-style projects. My current focus is building projects around **AI observability, full-stack dashboards, ETL pipelines, RAG workflows, backend APIs, testing, and cloud deployment**.
 
-🚀 **Featured build:** 👉 [SentinelAI](https://sentinelai-app.vercel.app/) — a full-stack AI governance dashboard with LLM monitoring, safety signals, reporting, testing, and Vercel deployment.
+🚀 **Featured build:** 👉 [SentinelAI](https://sentinelai-app.vercel.app/) :- a full-stack AI governance dashboard with LLM monitoring, safety signals, reporting, testing, and Vercel deployment.
 
 
 ## Featured Projects
