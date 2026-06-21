@@ -15,32 +15,39 @@ I enjoy learning new technologies and applying them through practical, productio
 
 ### [SentinelAI](https://github.com/Priya2149/SentinelAI)
 
-Full-stack AI governance and observability dashboard for monitoring LLM usage, latency, cost, safety signals, and compliance-style reporting.
+Full-stack AI governance and observability dashboard for monitoring LLM usage, latency, cost, safety signals, logs, analytics, metrics, and compliance-style reports.
 
-**Tech:** Next.js, React, TypeScript, Prisma, PostgreSQL/Supabase, Recharts, Zod, Vitest, React Testing Library, MSW, Cypress, Vercel
+**[Live Demo]:** (https://sentinelai-app.vercel.app/)
 
-Highlights:
+**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Prisma, PostgreSQL/Supabase, Recharts, Zod, React PDF, Vitest, React Testing Library, MSW, Cypress, Vercel
 
-* Built a production-style dashboard with route-level loading states, error boundaries, reusable components, server services, and API routes.
-* Added validation, API contract tests, component tests, hook tests, and browser-level Cypress tests across Chrome, Edge, and Firefox.
-* Fixed SSR hydration issues and deployment/runtime problems while improving production readiness.
+**Key Work:**
 
-👉 **Live Demo:** https://sentinelai-app.vercel.app/
+* Built dashboard views for logs, metrics, analytics, model testing, and report generation.
+* Created API routes, server-side services, validation schemas, and Prisma-backed data access.
+* Added filtering, pagination, loading states, route-level error handling, and reusable UI components.
+* Implemented charts for usage trends, latency, cost, and status distribution.
+* Added PDF preview and download flow for compliance-style summaries.
+* Added unit, component, hook, API contract, and Cypress browser tests.
+* Tested core flows across Chrome, Edge, and Firefox.
+* Fixed a React hydration mismatch caused by server/client relative-time rendering.
 
 ---
 
 ### [ETL-RAG Observability Platform](https://github.com/Priya2149/etl_rag_observability)
 
-Backend-focused microservices project for ETL pipelines and RAG-based document workflows with run tracking and observability.
+Backend-focused platform for running ETL workflows and RAG-based document retrieval with pipeline tracking and observability.
 
-**Tech:** FastAPI, Python, Pandas, PostgreSQL, ChromaDB, LangChain, sentence-transformers, Docker, Docker Compose
+**Tech Stack:** Python, FastAPI, Pandas, PostgreSQL, ChromaDB, LangChain, sentence-transformers, Docker, Docker Compose
 
-Highlights:
+**Key Work:**
 
-* Built separate ETL and RAG services for structured CSV processing and document-based retrieval workflows.
-* Added schema profiling, data quality checks, anomaly detection, background processing, and pipeline run tracking.
-* Implemented document chunking, embeddings, semantic search, retrieved context tracking, and metadata storage.
-
+* Built separate FastAPI services for ETL processing and RAG workflows.
+* Added CSV upload, schema profiling, data quality checks, and anomaly detection.
+* Created pipeline run tracking with status, metadata, and execution history.
+* Implemented document chunking, embeddings, semantic search, and retrieved context tracking.
+* Used PostgreSQL for pipeline metadata and ChromaDB for vector retrieval.
+* Added Docker Compose setup for running the backend services locally.
 
 ## Skills
 
