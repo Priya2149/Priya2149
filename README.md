@@ -4,12 +4,13 @@
 
 I’m a **Software Engineer** with **2.5+ years of experience** building full-stack, backend, cloud, and DevOps-focused applications in startup and Agile environments.
 
-I work with **.NET, React, TypeScript, Node.js, Azure, Docker, PostgreSQL, Prisma, and CI/CD pipelines**, and I recently completed my **M.S. in Computer Science at Pace University**.
+I work with **.NET, React, TypeScript, Node.js, Azure, Docker, PostgreSQL, Prisma, and CI/CD pipelines**. I recently completed my **M.S. in Computer Science at Pace University**.
 
-I enjoy learning new technologies and applying them through practical, production-style projects. My current focus is building projects around **AI observability, full-stack dashboards, ETL pipelines, RAG workflows, backend APIs, testing, and cloud deployment**.
+Through my recent projects, I’ve been building hands-on experience with **modern full-stack development**, including Next.js App Router, Prisma/Supabase, validation, testing, deployment, and browser-level QA.
 
-🚀 **Featured build:** 👉 [SentinelAI](https://sentinelai-app.vercel.app/) :- a full-stack AI governance dashboard with LLM monitoring, safety signals, reporting, testing, and Vercel deployment.
+I’m currently building projects around **Python-based ETL pipelines, RAG workflows, AI observability, and agentic application flows**, while continuing to learn and apply new technologies through practical projects.
 
+**Featured build:** [SentinelAI](https://sentinelai-app.vercel.app/) — a full-stack AI governance dashboard with LLM monitoring, safety signals, reporting, testing, and Vercel deployment.
 
 ## Featured Projects
 
