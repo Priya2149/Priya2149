@@ -1,16 +1,22 @@
-# 👋 Hi, I'm Priya Prajapati
+# Priya Prajapati
+
+**Software Engineer | Full-Stack & Backend | .NET, React, Azure, Docker, DevOps**
+
+<p align="center">
+  <a href="mailto:priyaprajapati001@outlook.com">Email</a> ·
+  <a href="https://github.com/Priya2149">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/prajapatipriya/">LinkedIn</a>
+</p>
 
 ## About Me
 
 I’m a **Software Engineer** with **2.5+ years of experience** building full-stack, backend, cloud, and DevOps-focused applications in startup and Agile environments.
 
-I work with **.NET, React, TypeScript, Node.js, Azure, Docker, PostgreSQL, Prisma, and CI/CD pipelines**. I recently completed my **M.S. in Computer Science at Pace University**.
+I work with **C#, .NET Core/ASP.NET, React, TypeScript, Node.js, Azure, Docker, PostgreSQL, Prisma, Azure DevOps, and CI/CD pipelines**. I recently completed my **M.S. in Computer Science at Pace University**.
 
-Through my recent projects, I’ve been building hands-on experience with **modern full-stack development**, including Next.js App Router, Prisma/Supabase, validation, testing, deployment, and browser-level QA.
+My recent project work focuses on **AI observability dashboards, Python-based ETL pipelines, RAG workflows, agentic application flows, testing, and vercel deployment**.
 
-I’m currently building projects around **Python-based ETL pipelines, RAG workflows, AI observability, and agentic application flows**, while continuing to learn and apply new technologies through practical projects.
-
-**Featured build:** [SentinelAI](https://sentinelai-app.vercel.app/) — a full-stack AI governance dashboard with LLM monitoring, safety signals, reporting, testing, and Vercel deployment.
+**Featured build:** [SentinelAI](https://sentinelai-app.vercel.app/) — a full-stack AI/LLM observability project with logs, metrics, analytics, model testing, reporting, validation, testing, and Vercel deployment.
 
 ## Featured Projects
 
@@ -24,14 +30,10 @@ Full-stack AI governance and observability dashboard for monitoring LLM usage, l
 
 **Key Work:**
 
-* Built dashboard views for logs, metrics, analytics, model testing, and report generation.
-* Created API routes, server-side services, validation schemas, and Prisma-backed data access.
-* Added filtering, pagination, loading states, route-level error handling, and reusable UI components.
-* Implemented charts for usage trends, latency, cost, and status distribution.
-* Added PDF preview and download flow for compliance-style summaries.
-* Added unit, component, hook, API contract, and Cypress browser tests.
-* Tested core flows across Chrome, Edge, and Firefox.
-* Fixed a React hydration mismatch caused by server/client relative-time rendering.
+- Built a multi-page Next.js application with logs, metrics, analytics, playground/model testing, and reporting views.
+- Added API routes, Prisma data access, PostgreSQL/Supabase setup, Zod validation, filtering, pagination, loading states, and route-level error handling.
+- Implemented Recharts visualizations, React PDF report generation, and reusable dashboard UI components.
+- Added unit, component, hook, API contract, and Cypress browser tests, including checks across Chrome, Edge, and Firefox.
 
 ---
 
@@ -43,12 +45,10 @@ Backend-focused platform for running ETL workflows and RAG-based document retrie
 
 **Key Work:**
 
-* Built separate FastAPI services for ETL processing and RAG workflows.
-* Added CSV upload, schema profiling, data quality checks, and anomaly detection.
-* Created pipeline run tracking with status, metadata, and execution history.
-* Implemented document chunking, embeddings, semantic search, and retrieved context tracking.
-* Used PostgreSQL for pipeline metadata and ChromaDB for vector retrieval.
-* Added Docker Compose setup for running the backend services locally.
+- Built separate FastAPI services for ETL processing and RAG workflows.
+- Added CSV upload, schema profiling, data quality checks, anomaly detection, and pipeline run tracking.
+- Implemented document chunking, embeddings, semantic search, retrieved context tracking, and ChromaDB vector storage.
+- Used PostgreSQL for pipeline metadata and Docker Compose for local service orchestration.
 
 ## Skills
 
