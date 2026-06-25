@@ -18,7 +18,7 @@ I’m currently building projects around **Python-based ETL pipelines, RAG workf
 
 Full-stack AI governance and observability dashboard for monitoring LLM usage, latency, cost, safety signals, logs, analytics, metrics, and compliance-style reports.
 
-**[Live Demo]:** (https://sentinelai-app.vercel.app/)
+**[Live Demo]:** [SentinelAI](https://sentinelai-app.vercel.app/)
 
 **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Prisma, PostgreSQL/Supabase, Recharts, Zod, React PDF, Vitest, React Testing Library, MSW, Cypress, Vercel
 
