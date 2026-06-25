@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Priya
+# 👋 Hi, I'm Priya Prajapati
 
 ## About Me
 
