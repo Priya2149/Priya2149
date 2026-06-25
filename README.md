@@ -152,7 +152,9 @@ Backend-focused platform for running ETL workflows and RAG-based document retrie
 
 ## 🤝 Connect With Me
 
-<p align="center">
+[Email](mailto:priyaprajapati001@outlook.com) · [GitHub](https://github.com/Priya2149) · [LinkedIn](https://www.linkedin.com/in/prajapatipriya/)
+
+<!-- <p align="center">
   <a href="mailto:priyaprajapati001@outlook.com" title="Outlook">
    <img src="https://github.com/simple-icons/simple-icons/raw/develop/icons/maildotru.svg" height="48" />
   </a>&nbsp;&nbsp;
@@ -162,4 +164,4 @@ Backend-focused platform for running ETL workflows and RAG-based document retrie
   <a href="https://www.linkedin.com/in/prajapatipriya/" title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
   </a>
-</p>
+</p> -->
