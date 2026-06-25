@@ -106,7 +106,6 @@ Backend-focused platform for running ETL workflows and RAG-based document retrie
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" width="28"/><br/>Azure DevOps</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="28"/><br/>Docker</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="28"/><br/>Kubernetes</td>
-    <td align="center">CI/CD Pipelines</td>
   </tr>
 </table>
 
@@ -129,7 +128,6 @@ Backend-focused platform for running ETL workflows and RAG-based document retrie
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="28"/><br/>VS Code</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="28"/><br/>GitHub</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="28"/><br/>Figma</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" width="28"/><br/>Adobe XD</td>
   </tr>
 </table>
 
