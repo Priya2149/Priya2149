@@ -3,6 +3,7 @@
 **Software Engineer | Full-Stack & Backend | .NET, React, Azure, Docker, DevOps**
 
 <p align="center">
+  <a href="https://priyaprajapati.vercel.app/">Portfolio</a>
   <a href="mailto:priyaprajapati001@outlook.com">Email</a> ·
   <a href="https://github.com/Priya2149">GitHub</a> ·
   <a href="https://www.linkedin.com/in/prajapatipriya/">LinkedIn</a>
